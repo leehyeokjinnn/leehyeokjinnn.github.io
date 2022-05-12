@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e39651.css",
+    "main.js": "/static/js/main.b77d8abf.js",
+    "static/media/slide0202.jpg": "/static/media/slide0202.b3b26490451b03278ca8.jpg",
+    "static/media/slide01.jpg": "/static/media/slide01.05305c812c4fd505be8b.jpg",
+    "static/media/slide0404.jpg": "/static/media/slide0404.aa238bb435afbda24b5e.jpg",
+    "static/media/AnyConv.com__NotoSansKR-Regular.eot": "/static/media/AnyConv.com__NotoSansKR-Regular.938c960431cdbb72817d.eot",
+    "static/media/AnyConv.com__NotoSansKR-Medium.eot": "/static/media/AnyConv.com__NotoSansKR-Medium.5f0f25757eb8a05f1c2a.eot",
+    "static/media/AnyConv.com__NotoSansKR-Light.eot": "/static/media/AnyConv.com__NotoSansKR-Light.a80cf9ae69998f121060.eot",
+    "static/media/AnyConv.com__NotoSansKR-Bold.eot": "/static/media/AnyConv.com__NotoSansKR-Bold.61010afd34b57daa5cb7.eot",
+    "static/media/AnyConv.com__NotoSansKR-Black.eot": "/static/media/AnyConv.com__NotoSansKR-Black.f7814577f58a48bdfa6b.eot",
+    "static/media/AnyConv.com__NotoSansKR-Thin.eot": "/static/media/AnyConv.com__NotoSansKR-Thin.8715d27672a152f46729.eot",
+    "index.html": "/index.html",
+    "main.35e39651.css.map": "/static/css/main.35e39651.css.map",
+    "main.b77d8abf.js.map": "/static/js/main.b77d8abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e39651.css",
+    "static/js/main.b77d8abf.js"
+  ]
+}
