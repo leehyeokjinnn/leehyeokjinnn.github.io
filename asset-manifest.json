@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e047cbc4.css",
-    "main.js": "/static/js/main.b77d8abf.js",
+    "main.css": "/static/css/main.969f4d10.css",
+    "main.js": "/static/js/main.c0cad2f1.js",
     "static/media/slide0202.jpg": "/static/media/slide0202.b3b26490451b03278ca8.jpg",
     "static/media/slide01.jpg": "/static/media/slide01.05305c812c4fd505be8b.jpg",
     "static/media/slide0404.jpg": "/static/media/slide0404.aa238bb435afbda24b5e.jpg",
@@ -12,11 +12,11 @@
     "static/media/AnyConv.com__NotoSansKR-Black.eot": "/static/media/AnyConv.com__NotoSansKR-Black.f7814577f58a48bdfa6b.eot",
     "static/media/AnyConv.com__NotoSansKR-Thin.eot": "/static/media/AnyConv.com__NotoSansKR-Thin.8715d27672a152f46729.eot",
     "index.html": "/index.html",
-    "main.e047cbc4.css.map": "/static/css/main.e047cbc4.css.map",
-    "main.b77d8abf.js.map": "/static/js/main.b77d8abf.js.map"
+    "main.969f4d10.css.map": "/static/css/main.969f4d10.css.map",
+    "main.c0cad2f1.js.map": "/static/js/main.c0cad2f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e047cbc4.css",
-    "static/js/main.b77d8abf.js"
+    "static/css/main.969f4d10.css",
+    "static/js/main.c0cad2f1.js"
   ]
 }
